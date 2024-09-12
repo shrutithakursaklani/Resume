@@ -1,0 +1,121 @@
+*
+{
+    margin:0;
+    padding:0;
+} 
+body
+{
+    font-family: 'Inter', sans-serif;
+}        
+.div
+{
+    background-color:#080e1e;
+    width: 100%;
+}
+
+.div1 h4
+{  
+    color: rgb(254, 197, 68) ;
+    font-size: 30px;
+    margin-top:6px;
+    margin-bottom: 10px;
+    font-weight: 300;
+  
+}
+.div1 h1
+{
+    font-size: 100px;
+    margin-bottom: 24px;
+    font-weight: 900;
+    color: rgb(253, 254, 255);
+    line-height:1; 
+}
+.div1 h3
+{
+    font-size: 36px;
+    margin-bottom: 41px;
+    font-weight: 300;
+    color: rgb(169, 173, 184);
+}
+.div2 img
+{
+    width: 100%;
+    margin-top: 50px;
+}
+.div3
+{
+    background-color: #0a101e;
+    width: 100%;
+}
+.div4 h4
+{
+    color: rgb(254, 197, 68);
+}
+.div-4in img
+{
+  width: 100%;  
+}
+.div5 h2
+{
+  color: white;
+}
+.div5 h4
+{
+    color: rgb(254, 197, 68)  
+}
+.div5 div
+{
+    color:#a9adb8;
+}
+.div5 li
+{
+    color:#a9adb8;
+    list-style:none;
+}
+.div-6 
+{  
+    text-align: center;
+    background-color: #0a101e ;
+}
+.div-6 p
+{
+    color: #a9adb8;
+}
+.div-6 h3
+{
+    color:white;
+}
+.div-6 h4
+{
+    color: rgb(254, 197, 68);  
+}
+
+.div-6 img
+{
+    width: 20%;
+    height:70px;
+    margin-bottom: 10px;
+}
+.div-7
+{
+    width: 100%;
+    background-color: #0a101e;
+}
+.divin-7
+{
+    background-color: #0a101e;
+}
+.divin-7 h2
+{
+    font-size: 70px;
+    font-weight: 600;
+}
+.in-7 h4
+{
+    font-size: 16px;
+    color: white;
+}
+.in-7 h5
+{
+    color: rgb(254, 197, 68);  
+} 

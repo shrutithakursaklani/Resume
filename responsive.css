@@ -1,0 +1,22 @@
+@media
+(max-width:320px){
+.div2 
+{
+    display: none;
+}
+}
+@media
+(max-width:750px){
+.div2 
+{
+    display: none;
+    height: 0%;
+}
+}
+
+@media(max-width:320px){
+    .div1 h1
+    {
+        font-size:60px;
+    }
+}
